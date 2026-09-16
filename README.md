@@ -14,7 +14,7 @@ npm -v
 ```
 
 **Screenshot — Node.js & npm version check:**
-<img width="517" height="287" alt="Node version check" src="https://github.com/user-attachments/assets/b15610ef-f16e-4cdf-8175-45d2dabfe88c" />
+
 <img width="779" height="301" alt="npm version check" src="https://github.com/user-attachments/assets/811d28d3-630d-41bc-bbe1-6d6a48a702fa" />
 
 ---
@@ -60,6 +60,7 @@ server.listen(PORT, () => {
 ```
 
 **Screenshot — server.js created in Notepad:**
+<img width="517" height="287" alt="Node version check" src="https://github.com/user-attachments/assets/b15610ef-f16e-4cdf-8175-45d2dabfe88c" />
 <img width="1600" height="900" alt="server.js file" src="https://github.com/user-attachments/assets/39a2b0fe-842b-4820-8bba-af8aa1cfafdb" />
 
 ---
