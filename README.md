@@ -1,4 +1,3 @@
-# node-server-demo
 # Node.js Basic Server — Lab Task
 
 ## 📌 Introduction
@@ -14,11 +13,9 @@ node -v
 npm -v
 ```
 
-**Screenshot — Node.js version check:**
-![Node version check](screenshots/node-version.png)
-
-**Screenshot — npm version check:**
-![npm version check](screenshots/npm-version.png)
+**Screenshot — Node.js & npm version check:**
+<img width="517" height="287" alt="Node version check" src="https://github.com/user-attachments/assets/b15610ef-f16e-4cdf-8175-45d2dabfe88c" />
+<img width="779" height="301" alt="npm version check" src="https://github.com/user-attachments/assets/811d28d3-630d-41bc-bbe1-6d6a48a702fa" />
 
 ---
 
@@ -40,7 +37,7 @@ npm init -y
 ```
 
 **Screenshot — package.json created:**
-![npm init output](screenshots/npm-init.png)
+<img width="1102" height="653" alt="npm init output" src="https://github.com/user-attachments/assets/e618f8be-331e-4757-8037-c69cf588e269" />
 
 ---
 
@@ -63,7 +60,7 @@ server.listen(PORT, () => {
 ```
 
 **Screenshot — server.js created in Notepad:**
-![server.js file](screenshots/server-file.png)
+<img width="1600" height="900" alt="server.js file" src="https://github.com/user-attachments/assets/39a2b0fe-842b-4820-8bba-af8aa1cfafdb" />
 
 ---
 
@@ -77,15 +74,12 @@ node server.js
 The terminal displayed the confirmation message `Server is running on port 3000`. A Windows Firewall prompt appeared on first run (normal behavior) and access was allowed.
 
 **Screenshot — server running / firewall prompt:**
-![Server running](screenshots/server-running.png)
+<img width="630" height="545" alt="Server running / browser output" src="https://github.com/user-attachments/assets/fa0df5e9-8a63-4777-8fb5-106635320b20" />
 
 ---
 
 ## 🌐 Step 5: Test in Browser
-Navigated to `http://localhost:3000` in the browser to confirm the server was working correctly. The page displayed **"Hello Javascript"**.
-
-**Screenshot — browser output:**
-![Browser output](screenshots/browser-output.png)
+Navigated to `http://localhost:3000` in the browser to confirm the server was working correctly. The page displayed **"Hello Javascript"**, confirming the server (shown in the Step 4 screenshot above) responded successfully.
 
 ---
 
